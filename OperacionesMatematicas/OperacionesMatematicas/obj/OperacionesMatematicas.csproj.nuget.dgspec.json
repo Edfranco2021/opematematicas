@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Mis Cosas\\Documentos\\C#\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj": {}
+    "F:\\info a leer\\c# curso\\clase viernes 22.4.2022\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj": {}
   },
   "projects": {
-    "D:\\Mis Cosas\\Documentos\\C#\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj": {
+    "F:\\info a leer\\c# curso\\clase viernes 22.4.2022\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Mis Cosas\\Documentos\\C#\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj",
+        "projectUniqueName": "F:\\info a leer\\c# curso\\clase viernes 22.4.2022\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj",
         "projectName": "OperacionesMatematicas",
-        "projectPath": "D:\\Mis Cosas\\Documentos\\C#\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj",
-        "packagesPath": "C:\\Users\\Rafa\\.nuget\\packages\\",
-        "outputPath": "D:\\Mis Cosas\\Documentos\\C#\\OperacionesMatematicas\\OperacionesMatematicas\\obj\\",
+        "projectPath": "F:\\info a leer\\c# curso\\clase viernes 22.4.2022\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas.csproj",
+        "packagesPath": "C:\\Users\\edgar\\.nuget\\packages\\",
+        "outputPath": "F:\\info a leer\\c# curso\\clase viernes 22.4.2022\\OperacionesMatematicas\\OperacionesMatematicas\\OperacionesMatematicas\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Rafa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\edgar\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows7.0"
+          "net6.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

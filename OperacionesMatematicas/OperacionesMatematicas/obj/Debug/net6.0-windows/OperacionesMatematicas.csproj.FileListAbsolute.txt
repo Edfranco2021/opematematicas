@@ -16,3 +16,21 @@ D:\Mis Cosas\Documentos\C#\OperacionesMatematicas\OperacionesMatematicas\obj\Deb
 D:\Mis Cosas\Documentos\C#\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.pdb
 D:\Mis Cosas\Documentos\C#\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.genruntimeconfig.cache
 D:\Mis Cosas\Documentos\C#\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\ref\OperacionesMatematicas.dll
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net6.0-windows\OperacionesMatematicas.exe
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net6.0-windows\OperacionesMatematicas.deps.json
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net6.0-windows\OperacionesMatematicas.runtimeconfig.json
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net6.0-windows\OperacionesMatematicas.dll
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\net6.0-windows\OperacionesMatematicas.pdb
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.csproj.AssemblyReference.cache
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.Form1.resources
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.Properties.Resources.resources
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.csproj.GenerateResource.cache
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.AssemblyInfoInputs.cache
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.AssemblyInfo.cs
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.csproj.CoreCompileInputs.cache
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.dll
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\refint\OperacionesMatematicas.dll
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.pdb
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\OperacionesMatematicas.genruntimeconfig.cache
+F:\info a leer\c# curso\clase viernes 22.4.2022\OperacionesMatematicas\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\net6.0-windows\ref\OperacionesMatematicas.dll
